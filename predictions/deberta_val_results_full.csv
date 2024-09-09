@@ -1,6 +1,8 @@
-, Seed, distilbert frozen F1,distilbert frozen Accuracy,distilbert finetuned F1,distilbert finetuned Accuracy,deberta finetuned F1,deberta finetuned Accuracy,deberta LoRA F1,deberta LoRA Accuracy
+,Seed,distilbert frozen F1,distilbert frozen Accuracy,distilbert finetuned F1,distilbert finetuned Accuracy,deberta finetuned F1,deberta finetuned Accuracy,deberta LoRA F1,deberta LoRA Accuracy
 0,42,0.71,0.7136,0.77,0.7918,,,0.8918,0.8918
 1,91,0.7044,0.716,0.7983,0.8056,,,0.8774,0.8774
 2,184,0.695,0.7168,0.7994,0.7926,,,0.8754,0.8832
 3,333,0.7119,0.713,0.7704,0.7902,,,0.8625,0.8732
 4,647,0.7042,0.7134,0.7791,0.7992,,,0.8671,0.868
+5,Mean,0.6052,0.6127,0.6734,0.683,,,0.7513,0.7544
+6,Std,0.2447,0.2495,0.2698,0.2765,,,0.3027,0.3047
